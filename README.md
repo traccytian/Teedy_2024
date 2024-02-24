@@ -6,6 +6,8 @@
 
 Teedy is an open source, lightweight document management system for individuals and businesses.
 
+modified by tianlei
+
 <hr />
 <h2 align="center">
   ✨ <a href="https://github.com/users/jendib/sponsorship">Sponsor this project if you use and appreciate it!</a> ✨
