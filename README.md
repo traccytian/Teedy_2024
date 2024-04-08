@@ -4,7 +4,7 @@
 
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
-modified by tian0408
+aaaa0408
 Teedy is an open source, lightweight document management system for individuals and businesses.
 
 modified by tianlei
